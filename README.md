@@ -6,3 +6,4 @@ Real-time News Updates: Fetches the latest news articles from the News API.
 Category Filtering: Browse news based on specific categories like Technology, Business, Sports, etc.
 Responsive Design: Optimized for both desktop and mobile devices.
 User-Friendly Interface: Simple and elegant UI for an enhanced user experience.
+
