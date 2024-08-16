@@ -7,5 +7,7 @@ NewsNugget is a sleek and intuitive news application built using React.js and th
 * Responsive Design: Optimized for both desktop and mobile devices.
 * User-Friendly Interface: Simple and elegant UI for an enhanced user experience.
 
-
+# Script
+* npm install
+* npm run start
 
